@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\6.4_rec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2D6398-5245-4680-8CC3-366D268183BA}|UnitTest_6.4_rec\\UnitTest_6.4_rec.vcxproj|C:\\Users\\USER\\source\\repos\\6.4_rec\\UnitTest_6.4_rec\\UnitTest_6.4_rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC2D6398-5245-4680-8CC3-366D268183BA}|UnitTest_6.4_rec\\UnitTest_6.4_rec.vcxproj|solutionrelative:UnitTest_6.4_rec\\UnitTest_6.4_rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0813233-6B5B-48EB-A6C9-CEBCB11FB539}|6.4_rec\\6.4_rec.vcxproj|C:\\Users\\USER\\source\\repos\\6.4_rec\\6.4_rec\\6.4_rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D0813233-6B5B-48EB-A6C9-CEBCB11FB539}|6.4_rec\\6.4_rec.vcxproj|solutionrelative:6.4_rec\\6.4_rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest_6.4_rec.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\6.4_rec\\UnitTest_6.4_rec\\UnitTest_6.4_rec.cpp",
+              "RelativeDocumentMoniker": "UnitTest_6.4_rec\\UnitTest_6.4_rec.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\6.4_rec\\UnitTest_6.4_rec\\UnitTest_6.4_rec.cpp",
+              "RelativeToolTip": "UnitTest_6.4_rec\\UnitTest_6.4_rec.cpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T19:30:38.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "6.4_rec.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\6.4_rec\\6.4_rec\\6.4_rec.cpp",
+              "RelativeDocumentMoniker": "6.4_rec\\6.4_rec.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\6.4_rec\\6.4_rec\\6.4_rec.cpp",
+              "RelativeToolTip": "6.4_rec\\6.4_rec.cpp",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAF4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T18:10:19.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
